@@ -1,6 +1,7 @@
 # Zuny
 
 <p align="center"><img src="doc/logo.png" width="200" alt="Zuny"></p>
+<p align="center">Simple file sharing system.</p>
 <p align="center">
     <a href="https://github.com/maiyun/zuny/blob/master/LICENSE">
         <img alt="License" src="https://img.shields.io/github/license/maiyun/zuny?color=blue" />
@@ -14,9 +15,11 @@
     </a>
 </p>
 
-Simple file sharing system.
+<p align="center"><img src="doc/screen.png" alt="Screenshot"></p>
 
-<p align="center"><img src="doc/screen.png" width="80%" alt="Screenshot"></p>
+## Languages
+
+[简体中文](doc/README.sc.md) | [繁體中文](doc/README.tc.md) | [日本語](doc/README.ja.md)
 
 ## Why Choose Us
 

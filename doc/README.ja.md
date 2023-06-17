@@ -1,6 +1,7 @@
 # Zuny
 
 <p align="center"><img src="logo.png" width="200" alt="Zuny"></p>
+<p align="center">簡易なファイル共有システム</p>
 <p align="center">
     <a href="https://github.com/maiyun/zuny/blob/master/LICENSE">
         <img alt="License" src="https://img.shields.io/github/license/maiyun/zuny?color=blue" />
@@ -14,9 +15,7 @@
     </a>
 </p>
 
-簡易なファイル共有システム。
-
-<p align="center"><img src="screen.png" width="80%" alt="Screenshot"></p>
+<p align="center"><img src="screen.png" alt="Screenshot"></p>
 
 ## なぜ私たちを選ぶのか
 
